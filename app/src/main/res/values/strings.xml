@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KtTodo</string>
+    <string name="filter_title">Filter the Todos</string>
+    <string-array name="filter_options">
+        <item>All</item>
+        <item>Active</item>
+        <item>Completed</item>
+    </string-array>
+</resources>
